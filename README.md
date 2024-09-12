@@ -1,15 +1,12 @@
-# Twitter clone with flask and react
 
-Read my blog post about it [here](https://dev.to/arnu515/build-a-fullstack-twitter-clone-using-flask-and-react-1j72)
 
 ---
 
 ## How to use:
 
-First, clone the repository with
+First, clone the repository and
 
 ```shell
-git clone https://github.com/arnu515/twitter-clone.git
 cd twitter-clone
 ```
 
